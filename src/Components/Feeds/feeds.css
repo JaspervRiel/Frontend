@@ -1,0 +1,25 @@
+.container{
+    display: grid;
+    place-items: center;
+    background-color:#F9F9F5;
+    height: 100%;
+    width: 100%;
+
+}
+.div-feed{
+    margin: 1%;
+    width: 35%;
+    border: 2px solid black;
+    border-radius: 5px;
+    justify-content: center;
+
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+.author{
+    margin: 0%;
+    background-color: white;
+}
